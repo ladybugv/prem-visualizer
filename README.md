@@ -7,6 +7,7 @@
 1. Get a free API key from https://www.api-football.com/pricing
 2. Clone the repo
 3. Edit your API key into App.tsx
+   
 ``` const key = "PUT API KEY HERE";  ```
 
 ## React + TypeScript + Vite
