@@ -1,0 +1,32 @@
+.hi {
+    color: rgb(255, 30, 221);
+    font-family: Arial;
+    text-align: center;
+  }
+
+  p {
+    color: rgb(79, 50, 86);
+  }
+
+  .graphTitle {
+    font-size: 20px;
+    font-weight: bold;
+    color: #381D54;
+  }
+
+  .dataBox {
+    width: 200,
+  }
+
+  .custom-tooltip {
+    background-color: #e5daf5d3;
+    padding: 5px;
+    padding-left: 15px;
+    padding-right: 15px;
+    border-radius: 5;
+  }
+
+  .intro {
+    padding: 15;
+  }
+
