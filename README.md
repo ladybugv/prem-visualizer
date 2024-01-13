@@ -1,4 +1,15 @@
-# React + TypeScript + Vite
+# Premier League Visualizer
+* Fetches Premier League Data from Football-API
+* Allows user to select data they want to view
+* Displays information in interactive charts
+
+## Installation
+1. Get a free API key from https://www.api-football.com/pricing
+2. Clone the repo
+3. Edit your API key into App.tsx
+``` const key = "PUT API KEY HERE";  ```
+
+## React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
